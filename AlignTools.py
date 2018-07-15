@@ -22,7 +22,7 @@ https://gist.github.com/eliemichel/db86f7a3ebd9f871628af4baf4dc2675
 License
 -------
 
-Copyright (c) 2017 Elie Michel
+Copyright (c) 2017-2018 Elie Michel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

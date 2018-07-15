@@ -30,6 +30,11 @@ When more than one face is selected, the average of the normals is used.
 
 ![Align Mean Face Demo](doc/align-mean-face.png)
 
+Support
+-------
+
+If you encounter any issue or have feature/usability suggestion, feel free to [fill an issue](https://github.com/eliemichel/AlignTools/issues/new)!
+
 TODO
 ----
 
